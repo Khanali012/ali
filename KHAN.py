@@ -1,3 +1,4 @@
 import os
 os.system('git pull')
-import khan
+os.system('chmod 777 KHAN-1')
+os.system('./KHAN-1')
